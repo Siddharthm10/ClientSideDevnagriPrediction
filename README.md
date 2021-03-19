@@ -8,7 +8,8 @@ Imagine you created a model which does some great stuff and helps people. You pu
 #### Frontend: tensorflowjs (I have a script in head from cdn, made for python developers in order not to download a module)
 
 ##### Model
-Model is trained by me and the files related to that will be added soon.
+Model is custom designed and is present in `Model.ipynb`. 
+Test accuracy = 92%
 
 ##### Usage
 Simply run `app.py`, open link in browser<br>
